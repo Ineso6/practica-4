@@ -1,0 +1,181 @@
+.header {
+  height: 90px;
+  background-color: #FFFFFF;
+}
+
+.slider {
+  height: 550px;
+  background-color: #000000;
+  padding: 0;
+}
+
+.about {
+  height: 314px;
+  background-color: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+}
+
+.projects {
+  height: 1121px;
+  background-color: #FFFFFF;
+  margin-top: 40PX;
+}
+
+.footer{
+  height: 429px;
+  background-color: #606060;
+}
+
+.footer-info {
+  height: 351px;
+  background-color: #3b3b3b;
+  border-top: 5px solid #ed564b;
+}
+
+.footer-contact {
+  height: 78px;
+  background-color: #292929;
+  color: #aaaaaa;
+}
+
+.logo {
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.nav-bar {
+  list-style: none;
+  margin-top: 35px;
+}
+
+.menu-item {
+  float: left;
+}
+
+.link {
+  color: #777777;
+  padding: 10px;
+}
+
+.title-footer {
+  color: #FFFFFF;
+  font-size: 16px;
+}
+
+.footer-list {
+  list-style: none;
+  color: #aaaaaa;
+  padding-left: 0;
+}
+
+.footer-item {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-bottom: 0.5px dotted;
+}
+
+.info {
+  padding-top: 30px;
+}
+
+.legal {
+  padding-top: 25px;
+  padding-left: 0;
+  font-size: 12px;
+}
+
+.img-slider {
+width: 100%;
+display: block;
+height: 550px;
+filter: grayscale(100%);
+}
+
+.carousel-box {
+  height: 550px;
+}
+
+.carousel-text {
+  position: absolute;
+  top: 185px;
+}
+
+.overlay-box {
+  z-index: 135;
+  width: 100%;
+}
+
+.about-text {
+  text-align: center;
+  color: #ffffff;
+  margin-top: 40px;
+}
+
+.circle-container {
+  text-align: center;
+  border-radius: 50%;
+  border: solid 5px #ffffff;
+  width: 70px;
+  height: 70px;
+  margin: 0;
+}
+
+.figure-father {
+  position: relative;
+  height: 70px;
+}
+
+.circle-son {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.title-projects {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.img-projects {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.img-description {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.box-control {
+position: absolute;
+top: 40%;
+bottom: 40%;
+left: 0;
+width: 50px;
+font-size: 20px;
+color: #fff;
+text-align: center;
+background-color:
+z-index: 110;
+opacity: 1;
+text-shadow: none;
+}
+
+.post-date {
+  font-size: 13px;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.icon-circle {
+  margin-top: 35%;
+  font-size: 20px;
+}
+
+.title-about {
+  font-weight: bold;
+}
